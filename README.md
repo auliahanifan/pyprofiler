@@ -46,7 +46,7 @@ try_func > 2         0.0               for item in arr:
 try_func > 1         0.21                  _logger.info(item)
 try_func >                         else:
 try_func >                             for item in arr:
-try_func >                                 _logger.info(x)
+try_func >                                 _logger.info(item)
 
 try_func > Total:
 try_func > 1         0.21  
