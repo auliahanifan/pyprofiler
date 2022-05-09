@@ -1,4 +1,4 @@
-# pyprofiler
+# simpleprofiler
 Tool to profile your code in python
 
 ## Logging Level

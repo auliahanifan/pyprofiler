@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='pyprofiler',
+    name='simpleprofiler',
     version='0.1',
     license='MIT',
     author="Aulia R. Hanifan",
