@@ -11,6 +11,8 @@ Defaultly simpleprofiler use INFO as logging level
 
 ## Example
 
+Code: 
+
 ```python
 from simpleprofiler import get_profile
 
@@ -26,10 +28,12 @@ def try_func(bool, arr):
             _logger.info(item)
     else:
         for item in arr:
-            _logger.info(x)
+            _logger.info(info)
 
 try_func(True, ["try" * 10])
 ```
+
+On Console:
 
 ```
 try_func >  calls     ms
